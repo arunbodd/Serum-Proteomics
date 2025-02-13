@@ -164,8 +164,8 @@ If you use this pipeline in your research, please cite this repository and relev
 
 ## Contact
 For questions or issues, please contact:
-- **Name**: [Arun Boddapati]
-- **Email**: [arunbodd (at) outlook.com]
+- **Name**: Arun Boddapati
+- **Email**: arunbodd (at) outlook.com
 
 ---
 
